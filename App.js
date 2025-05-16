@@ -12,7 +12,6 @@ import MealCard from './components/MealCard';
 import styles from './AppStyles';
 import mealData from './data/mealData';
 
-
 export default function App() {
   return (
     <SafeAreaView style={styles.container}>
